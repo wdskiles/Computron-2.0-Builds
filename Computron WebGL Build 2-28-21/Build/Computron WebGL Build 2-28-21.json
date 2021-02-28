@@ -1,0 +1,16 @@
+{
+"companyName": "TeamSolenodon",
+"productName": "Computron",
+"productVersion": "0.1",
+"dataUrl": "Computron WebGL Build 2-28-21.data.unityweb",
+"wasmCodeUrl": "Computron WebGL Build 2-28-21.wasm.code.unityweb",
+"wasmFrameworkUrl": "Computron WebGL Build 2-28-21.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
