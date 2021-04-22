@@ -1,1 +1,2 @@
 # Computron-2.0-Builds
+This is where the Computron 2.0 team posted many of their development builds for their Senior Design project with UCF. Official builds can also be found at https://computrondevteam.itch.io/computron2-0
